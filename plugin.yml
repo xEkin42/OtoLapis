@@ -1,0 +1,9 @@
+name: OtoLapis
+main: Ekin42\OtoLapis\Main
+version: 0.0.1
+api: 3.0.0-ALPHA12
+author: Ekin42
+
+commands:
+ otolapis:
+  description: "OtoLapis açma/kapama komutu."
